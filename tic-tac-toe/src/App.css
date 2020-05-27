@@ -1,0 +1,46 @@
+.col {
+  padding: 0px;
+  background: white;
+  border: 2px solid purple;
+  height: 72px;
+}
+
+.marking {
+  width: 100%;
+  height: 100%;
+  font-size: 40px!important;
+  text-align: center;
+}
+
+.marking-x {
+  color: lightblue !important;
+}
+
+.marking-o {
+  color: lightcoral !important;
+}
+
+.alert {
+  margin-top: 20px;
+  text-align: center;
+  display: none;
+}
+
+.board {
+  margin: 0 33%;
+  max-width: 190px;
+}
+
+.container {
+  text-align: center;
+}
+
+#container {
+  width: 600px;
+  height: 500px;
+}
+
+.paperContainer {
+  height: 525px;
+  background-image: url(./images/background.jpg);
+}
